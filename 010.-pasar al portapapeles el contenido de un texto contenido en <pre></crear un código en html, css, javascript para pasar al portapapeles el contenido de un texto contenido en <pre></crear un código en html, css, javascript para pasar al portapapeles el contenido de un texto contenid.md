@@ -1,17 +1,4 @@
-
-```
-Exported with AIPRM https://www.aiprm.com by Eugenio de Frutos on 29/1/2023, 20:35:34
-```
-
----
-
-
-**User:**
-crear un código en html, css, javascript para pasar al portapapeles el contenido de un texto contenido en <pre></pre>
-
----
-
-**ChatGPT:**
+# Código HTML, CSS y JavaScript que copia el contenido de un elemento &lt;pre&gt; en el portapapeles
 Aquí hay un código HTML, CSS y JavaScript que copia el contenido de un elemento &lt;pre&gt; en el portapapeles:
 HTML:
 ```bash
